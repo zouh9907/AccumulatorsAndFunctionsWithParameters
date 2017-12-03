@@ -133,7 +133,6 @@ def draw_circles2():
         circle.fill_color = 'blue'
         circle.attach_to(window)
         window.render(0.05)  # Pauses for 0.05 seconds after rendering.
-
     window.close_on_mouse_click()
 
 
